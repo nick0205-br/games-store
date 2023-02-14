@@ -5,5 +5,5 @@ Site em desenvolvimento ...
 
 # Em desenvolvimento...
 
-#Observações
+# Observações
 Site criado com React JS, API criada com Node JS, e Banco de Dados criado com MySQL Workbench.
